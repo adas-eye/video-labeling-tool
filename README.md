@@ -1,4 +1,4 @@
-This repository is for the anonymous reviewing process of the CVPR 2020 conference, and it should NOT be used for other purposes. The code is not functional since we removed identifiable information.
+This repository is for the anonymous reviewing process, and it should NOT be used for other purposes. The code is not functional since we removed identifiable information.
 
 # video-labeling-tool
 A tool for labeling video clips (both front-end and back-end). The back-end is based on [flask](http://flask.pocoo.org/). A flask tutorial can be found on [this blog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
